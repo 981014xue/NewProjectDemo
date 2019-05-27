@@ -10,6 +10,7 @@ public class Main3Activity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main3);
         System.out.println("Hello");
+        System.out.println("Hello");
 
     }
 }
